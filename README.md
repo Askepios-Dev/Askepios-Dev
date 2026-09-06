@@ -5,4 +5,4 @@
 🐧 Arch Linux user (btw) for 2+ years  
 🥤 This machine runs on Monster and terminal commands  
 
-📌 **My philosophy:** If it works on the first try, I probably forgot the sudo.
+📌 **My philosophy:** Good code is code that works. Great code is code you can fix at 2AM.
