@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Askepios
 
 🎓 Systems Engineering student  
-🐍 Learning Python, one error at a time  
+🐍 Learning Python/C, one error at a time  
 🐧 Arch/Gentoo Linux user (btw) for 2+ years  
 🥤 This machine runs on Monster and terminal commands  
 
