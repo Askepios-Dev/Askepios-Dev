@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Askepios
 
 🎓 Systems Engineering student  
-🐍 Learning Python/C, one error at a time  
-🐧 Arch/Gentoo Linux user (btw) for 2+ years  
+🐍 Learning C/RUST, one error at a time   
 🥤 This machine runs on Monster and terminal commands  
 
 📌 **My philosophy:** Good code is code that works. Great code is code you can fix at 2AM.
