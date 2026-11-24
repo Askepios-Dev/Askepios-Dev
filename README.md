@@ -2,6 +2,7 @@
 
 🎓 Systems Engineering student  
 🐧 Linux User (+3 years)
+
 🐍 Learning C/RUST/Python, one error at a time   
 🥤 This machine runs on Monster and terminal commands  
 
